@@ -2,6 +2,7 @@ header {
     color: blue;
     font-family: 'Inconsolata', monospace;
     font-family: 'Signika', sans-serif;
+    background-color: gray;
 }
 body {
     text-align: center;
@@ -9,6 +10,7 @@ body {
 .song
     {
         font-size: 20px;
+        
     }
 h1 {
     font-size: 30px;
